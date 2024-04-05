@@ -3,7 +3,7 @@
 Name: `rolyPolyVole`
 Pronouns: `he/him`
 ##
-`\*** About me - Last updated 05/04/2024 ***`
+`*** About me - Last updated 05/04/2024 ***`
 ##
 Hello! I'm a proficient JavaScript, TypeScript and Java developer, and a Minecraft and Chess enthusiast.  <br>
 I learnt JavaScript and its typed variant coding bots on discord. I'm a professional at making them now, I even take commissions for custom bots!  <br>
