@@ -15,5 +15,5 @@ Friends:
 - @Slqmy
 Links:
 - Discord: `rolyPolyVole`
-- Ko-fi (commissions): https://ko-fi.com/rolyPolyVole  <br>
+- Ko-fi (commissions): https://ko-fi.com/rolyPolyVole<br>
 `\*\*\* End of about me \*\*\*`
