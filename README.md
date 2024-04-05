@@ -9,11 +9,13 @@ I learnt JavaScript and its typed variant coding bots on discord. I'm a professi
 I picked up Java while creating Minecraft plugins. I'm working on a Minecraft network as a project right now. It's not complete enough right now, but when it is I will be looking for collabs!  <br>
   <br>
 If you're suffering from daily developer burnout, friend me on Chess.com for a chill round of chess!  <br>
-Name: `rolyPolyVole`, rating: `~1700`  <br>
-  <br>
+Name: `rolyPolyVole`, rating: `~1700`
+##
 Friends:
 - @Slqmy
+##
 Links:
 - Discord: `rolyPolyVole`
-- Ko-fi (commissions): https://ko-fi.com/rolyPolyVole<br>
+- Ko-fi (commissions): https://ko-fi.com/rolyPolyVole
+##
 `\*\*\* End of about me \*\*\*`
