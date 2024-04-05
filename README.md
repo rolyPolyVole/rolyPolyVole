@@ -1,6 +1,6 @@
 ### Hi there 👋
 ##
-Name: `rolyPolyVole`
+Name: `rolyPolyVole`<br>
 Pronouns: `he/him`
 ##
 `*** About me - Last updated 05/04/2024 ***`
@@ -13,7 +13,7 @@ I even take commissions for custom bots!<br>
 I picked up Java while creating Minecraft plugins. I'm working on a Minecraft network as a project right<br>
 now. It's not complete enough yet, but when it is I will be looking for collabs!<br>
 <br>
-If you're suffering from daily developer burnout, friend me on Chess.com for a chill round of chess!  <br>
+If you're suffering from daily developer burnout, friend me on [chess.com](https://chess.com) for a chill round of chess!  <br>
 Name: `rolyPolyVole`, rating: `~1700`
 ##
 Friends:
