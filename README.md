@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**rolyPolyVole/rolyPolyVole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Name: `rolyPolyVole`
+Pronouns: `he/him`
 
-Here are some ideas to get you started:
+`\*\*\* About me - Last updated 05/04/2024 \*\*\*`
+Hello! I'm a proficient JavaScript, TypeScript and Java developer, and a Minecraft and Chess enthusiast.
+I learnt JavaScript and its typed variant coding bots on discord. I'm a professional at making them now, I even take commissions for custom bots!
+I picked up Java while creating Minecraft plugins. I'm working on a Minecraft network as a project right now. It's not complete enough right now, but when it is I will be looking for collabs!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you're suffering from daily developer burnout, friend me on Chess.com for a chill round of chess!
+Name: `rolyPolyVole`, rating: `~1700`
+
+Friends:
+- @Slqmy
+
+Links:
+- Discord: `rolyPolyVole`
+- Ko-fi (commissions): https://ko-fi.com/rolyPolyVole
+`\*\*\* End of about me \*\*\*`
