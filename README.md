@@ -13,7 +13,6 @@ Name: `rolyPolyVole`, rating: `~1700`  <br>
   <br>
 Friends:
 - @Slqmy
-  <br>
 Links:
 - Discord: `rolyPolyVole`
 - Ko-fi (commissions): https://ko-fi.com/rolyPolyVole
