@@ -3,7 +3,7 @@
 Name: `rolyPolyVole`<br>
 Pronouns: `he/him`
 ##
-`*** About me - Last updated 05/04/2024 ***`
+`*** About me - Last updated 08/04/2024 ***`
 ##
 Hello! I'm a proficient **JavaScript**, **TypeScript** and **Java** developer, and a **Minecraft** and **Chess** enthusiast.<br>
 <br>
@@ -23,4 +23,5 @@ Links:
 - Discord: `rolyPolyVole`
 - Ko-fi (commissions): https://ko-fi.com/rolyPolyVole
 ##
+![](https://komarev.com/ghpvc/?username=your-github-username&color=blueViolet)
 `*** End of about me ***`
