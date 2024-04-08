@@ -8,8 +8,8 @@ Pronouns: `he/him`
 Hello!<br>
 💻 I'm a proficient **JavaScript**, **TypeScript** and **Java** developer, and a **Minecraft** and **Chess** enthusiast.<br>
 <br>
-🎓I learnt JavaScript and its typed variant coding **bots** on discord. I'm a professional at making them now.<br>
-🪙 I even take commissions for custom bots!<br>
+👨‍🎓 I learnt JavaScript and its typed variant coding **bots** on discord. I'm a professional at making them now.<br>
+💰 I even take commissions for custom bots!<br>
 <br>
 I picked up Java while creating **Minecraft plugins**. I'm working on a **Minecraft network** as a project right<br>
 now. It's not complete enough yet, but when it is I will be looking for 🤝 **collabs**!<br>
