@@ -25,4 +25,4 @@ Links:
 ##
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet&base=0)
 ##
-**=-=-=-=**` End of about me `**=-=-=-=**
+**=:-:=:-:=:-:=**` End of about me `**=:-:=:-:=:-:=**
