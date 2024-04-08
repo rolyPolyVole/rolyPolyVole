@@ -23,6 +23,6 @@ Links:
 - Discord: `rolyPolyVole`
 - Ko-fi (commissions): https://ko-fi.com/rolyPolyVole
 ##
-![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet&base=0)
 ##
 `*** End of about me ***`
