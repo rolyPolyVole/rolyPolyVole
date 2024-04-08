@@ -11,7 +11,7 @@ Hello!<br>
 👨‍🎓 I learnt JavaScript and its typed variant coding **bots** on discord. I'm a professional at making them now.<br>
 💰 I even take commissions for custom bots!<br>
 <br>
-☕ I picked up Java while creating **Minecraft plugins**. I'm working on a **Minecraft network** as a project right now.<br>
+☕ I picked up Java while creating **Minecraft plugins**. I'm currently working on a **Minecraft network** as a project.<br>
 🤝 It's not complete enough yet, but when it is I will be looking for **collabs**!<br>
 <br>
 ☠️ If you're suffering from daily developer burnout, friend me on [chess.com](https://chess.com) for a chill round of chess!  <br>
