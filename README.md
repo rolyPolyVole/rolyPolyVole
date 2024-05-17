@@ -26,4 +26,4 @@ Hello!<br>
 ##
 ![](https://komarev.com/ghpvc/?username=rolyPolyVole&color=blueviolet)
 ##
-**=:-:=:-:=:-:=:-:=:-:=:-:=:-:=**` End of about me `**=:-:=:-:=:-:=:-:=:-:=:-:=:-:=**
+**=:-:=:-:=:-:=:-:=:-:=:-:=:-:=**` End of about me                      `**=:-:=:-:=:-:=:-:=:-:=:-:=:-:=**
