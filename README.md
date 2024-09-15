@@ -15,7 +15,7 @@ Hello!<br>
 🤝 It's not complete enough yet, but when it is I will be looking for **collabs**!<br>
 <br>
 ☠️ If you're suffering from daily developer burnout, friend me on [chess.com](https://chess.com) for a chill round of chess!  <br>
-📋 Name: `rolyPolyVole`, rating: `~1800` ⏰ rapid
+📋 Name: `rolyPolyVole`, rating: `~1900` ⏰ rapid
 ##
 🕵️ Friends 💃:
 - [@EsotericEnderman](https://github.com/EsotericEnderman)
