@@ -3,7 +3,7 @@
 Name: `rolyPolyVole`<br>
 Pronouns: `he/him`
 ##
-**=:-:=:-:=:-:=:-:=:-:=:-:=:-:=**`  About me - Last updated 15/09/2024  `**=:-:=:-:=:-:=:-:=:-:=:-:=:-:=**
+**=:-:=:-:=:-:=:-:=:-:=:-:=:-:=**`  About me - Last updated 4/11/2024  `**=:-:=:-:=:-:=:-:=:-:=:-:=:-:=**
 ##
 Hello!<br>
 💻 I'm a proficient **JavaScript**, **TypeScript** and **Java** developer, and a **Minecraft** and **Chess** enthusiast.<br>
