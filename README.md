@@ -18,7 +18,7 @@ Hello!<br>
 📋 Name: `rolyPolyVole`, rating: `~2300` ⏰ rapid
 ##
 🕵️ Friends 💃:
-- [@EsotericEnderman](https://github.com/EsotericEnderman)
+- [@sh.dima](https://github.com/sh-dima)
 ##
 📎 Links 📎:
 - Discord: `rolyPolyVole`
